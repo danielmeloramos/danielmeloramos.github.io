@@ -5,13 +5,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmeloramos.com.br" # the base hostname & protocol for your site e.g. 
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Daniel Melo Ramos
+user_description: Daniel - Software Enginner
+email: meloramosdaniel@gmail.com
+twitter_username: DanielMeloRamo1
+github_username:  danielmeloramos
 
 # Build settings
 markdown: kramdown
