@@ -1,7 +1,7 @@
 {
-  "name": "cardsjekyll",
+  "name": "blog_danielmeloramos",
   "version": "1.0.0",
-  "description": "A simple template for Jekyll Blogs.",
+  "description": "Blog de daniel melo ramos.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
