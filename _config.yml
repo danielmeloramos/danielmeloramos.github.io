@@ -1,37 +1,36 @@
 # Site settings
-title: Daniel Melo Ramos - Engenheiro de Software
+title: Daniel Melo Ramos - Blog
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmeloramos.com.br" # the base hostname & protocol for your site e.g. 
 
-# User settings
-username: Daniel Melo Ramos
-user_description: Daniel - Software Enginner
-email: meloramosdaniel@gmail.com
-twitter_username: DanielMeloRamo1
-github_username:  danielmeloramos
+# for atom feed
+author:
+  name: Daniel Melo Ramos
+  email: meloramosdaniel@gmail.com
+  bio: Desenvolvido por <b>Daniel Melo Ramos</b>, que vive no Brasil, construindo coisas úteis para o mundo.
+  github: "danielmeloramos"
+  twitter: "DanielMeloRamo1"
+  gplus_username: ""
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Tags
-    url: /tags
-  - title: About Me
-    url: /about
-
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:categories/:year/:month/:day/:title/
