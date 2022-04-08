@@ -1,6 +1,6 @@
 # Site settings
 title: Daniel Melo Ramos - Blog
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmeloramos.com.br" # the base hostname & protocol for your site e.g. 
 
