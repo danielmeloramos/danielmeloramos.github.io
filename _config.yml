@@ -4,14 +4,11 @@ description: A blog about me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmeloramos.com.br" # the base hostname & protocol for your site e.g. 
 
-# for atom feed
-author:
-  name: Daniel Melo Ramos
-  email: meloramosdaniel@gmail.com
-  bio: Desenvolvido por <b>Daniel Melo Ramos</b>, que vive no Brasil, construindo coisas úteis para o mundo.
-  github: "danielmeloramos"
-  twitter: "DanielMeloRamo1"
-  gplus_username: ""
+# User settings
+username: Daniel Melo Ramos
+user_description: Desenvolvido por <b>Daniel Melo Ramos</b>, que vive no Brasil, construindo coisas úteis para o mundo.
+email: meloramosdaniel@gmail.com
+github: "danielmeloramos"
 
 # Build settings
 markdown: kramdown
