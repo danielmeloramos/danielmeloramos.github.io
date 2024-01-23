@@ -15,11 +15,12 @@ categories:
 image: "/assets/img/sre.png"
 twitter_text: 'Explorando a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang. #SRE #Prometheus #Grafana'
 introduction: 'Neste artigo, embarcaremos em uma jornada para implementar a Engenharia de Confiabilidade de Sites (SRE) utilizando Prometheus, Grafana e Golang. Uma abordagem dinâmica e eficaz, para garantir confiabilidade e desempenho em sistemas complexos.'
+comments: 'true'
 ---
 
 Olá, leitores!
 
-No últimos tempos, veio trabalhando muito com SRE, achei interessante compartilhar pouco do conhecimento que adquiri no mundo da Engenharia de Confiabilidade de Sites (SRE). Neste artigo, exploraremos a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang para garantir confiabilidade e desempenho em sistemas complexos.
+Recentemente, tenho me dedicado e trabalhado bastante com SRE. Achei interessante compartilhar um pouco do conhecimento que adquiri no mundo da Engenharia de Confiabilidade de Sites (SRE). Para isso, trago um artigo no qual podemos explorar a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang para garantir confiabilidade e desempenho em sistemas complexos. Para facilitar o entendimento, dividi o conteúdo em 5 tópicos centrais. Nada muito extenso, mas prometo que será simples e direto. Vamos lá!
 
 ![SRE](/assets/img/sre.png)
 

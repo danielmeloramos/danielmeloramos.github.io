@@ -10,6 +10,7 @@ username: Daniel Melo Ramos
 user_description: Desenvolvido por <b>Daniel Melo Ramos</b>, que vive no Brasil, construindo coisas úteis para o mundo.
 email: meloramosdaniel@gmail.com
 github_username: "danielmeloramos"
+disqus_username: "danielmeloramos"
 
 # Build settings
 markdown: kramdown
