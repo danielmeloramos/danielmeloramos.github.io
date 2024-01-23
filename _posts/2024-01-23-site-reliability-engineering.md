@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Reliability Engineering com Prometheus, Grafana e Golang: Uma Abordagem Dinâmica e Eficaz"
-date: 2024-01-23 08:00:00
+date: 2024-01-23 00:00:00
 image: '/assets/img/sre-prometheus-golang.jpg'
 description: 'Explorando a implementação prática do framework SRE'
 main-class: 'sre'
