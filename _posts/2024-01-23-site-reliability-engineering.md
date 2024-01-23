@@ -11,6 +11,8 @@ tags:
 - Prometheus
 - Golang
 categories:
+- Site Reliability Engineering
+image: "/assets/img/sre.png"
 twitter_text: 'Explorando a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang. #SRE #Prometheus #Grafana'
 introduction: 'Neste artigo, embarcaremos em uma jornada para implementar a Engenharia de Confiabilidade de Sites (SRE) utilizando Prometheus, Grafana e Golang. Uma abordagem dinâmica e eficaz, para garantir confiabilidade e desempenho em sistemas complexos.'
 ---
