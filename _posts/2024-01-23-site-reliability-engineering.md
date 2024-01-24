@@ -2,7 +2,6 @@
 layout: post
 title: "Site Reliability Engineering com Prometheus, Grafana e Golang: Uma Abordagem Dinâmica e Eficaz"
 date: 2024-01-23 00:00:00
-image: '/assets/img/sre-prometheus-golang.jpg'
 description: 'Explorando a implementação prática do framework SRE'
 main-class: 'sre'
 color: '#0d9178'
@@ -12,7 +11,7 @@ tags:
 - Golang
 categories:
 - Site Reliability Engineering
-image: "/assets/img/sre.png"
+image: "/assets/img/sre/sre.png"
 twitter_text: 'Explorando a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang. #SRE #Prometheus #Grafana'
 introduction: 'Neste artigo, embarcaremos em uma jornada para implementar a Engenharia de Confiabilidade de Sites (SRE) utilizando Prometheus, Grafana e Golang. Uma abordagem dinâmica e eficaz, para garantir confiabilidade e desempenho em sistemas complexos.'
 comments: 'true'
@@ -22,7 +21,7 @@ Olá, leitores!
 
 Recentemente, tenho me dedicado e trabalhado bastante com SRE. Achei interessante compartilhar um pouco do conhecimento que adquiri no mundo da Engenharia de Confiabilidade de Sites (SRE). Para isso, trago um artigo no qual podemos explorar a implementação prática do framework SRE, utilizando Prometheus, Grafana e Golang para garantir confiabilidade e desempenho em sistemas complexos. Para facilitar o entendimento, dividi o conteúdo em 5 tópicos centrais. Nada muito extenso, mas prometo que será simples e direto. Vamos lá!
 
-![SRE](/assets/img/sre.png)
+![SRE](/assets/img/sre/sre.png)
 
 ### Entendendo a Abordagem SRE
 
@@ -44,7 +43,7 @@ Os quatro sinais, são cruciais para medir o desempenho e a confiabilidade de um
 * [Grafana](https://grafana.com/): Plataforma open-source para visualização de métricas de sistemas;
 * [Golang](https://go.dev/): Alternativa dinâmica para expor métricas, proporcionando uma implementação eficaz.
 
-![Golang e Grafana](/assets/img/golang-grafana.png)
+![Golang e Grafana](/assets/img/sre/golang-grafana.png)
 
 ### Calculando Métricas com PromQL
 
@@ -100,7 +99,7 @@ Utilize um repositório com Golang, disponível em [Repositório SRE-ARTIGO](htt
 
 No final terá o seguinte resultado:
 
-![Grafana dashboard](/assets/img/grafana-dashboard-exemplo.png)
+![Grafana dashboard](/assets/img/sre/grafana-dashboard-exemplo.png)
 
 ### Conclusão
 
