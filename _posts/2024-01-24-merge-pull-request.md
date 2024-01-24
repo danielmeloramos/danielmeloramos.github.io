@@ -12,7 +12,7 @@ tags:
 - Pull/Merge Requests
 categories:
 - Pull/Merge Requests
-image: "/assets/img/pull-merge-request.png"
+image: "/assets/img/merge-pull-request/pull-merge-request.png"
 twitter_text: 'Desvendando os Segredos dos Pull/Merge Requests.'
 introduction: 'Neste artigo, embarcaremos em uma jornada para desvendandar os Segredos dos Pull/Merge Requests'
 comments: 'true'
