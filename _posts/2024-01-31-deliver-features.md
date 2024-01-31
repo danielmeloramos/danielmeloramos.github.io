@@ -4,7 +4,7 @@ title: "Garantindo Segurança na Entrega de Funcionalidades"
 date: 2024-01-31 16:00:00
 image: '/assets/img/sre-prometheus-golang.jpg'
 description: 'Entregando Funcionalidades com Segurança: A Importância de Métricas, Feature Flags e Rollbacks'
-main-class: 'features'
+main-class: 'metrics'
 color: '#2c0137'
 tags:
 - Segurança
