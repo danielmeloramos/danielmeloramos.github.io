@@ -1,10 +1,28 @@
 ---
 layout: post
 title: "Processamento Assíncrono de Imagens em Escala com Google Cloud"
-date: 2025-01-27
-categories: [Desenvolvimento, Google Cloud]
-tags: [NextJS, TypeScript, ProcessamentoDeImagens, ArquiteturaDeSoftware, GoogleCloudStorage, GCS, Scalability, Performance, Microservices]
-author: Daniel Mello Ramos
+date: 2025-01-27 16:00:00
+image: '/assets/img/google-cloud-storage.jpg'
+description: 'Construindo um sistema de processamento de imagens que consegue lidar com até 10.000 arquivos por upload de forma eficiente e escalável usando Google Cloud Platform e Next.js'
+main-class: 'cloud'
+color: '#4285f4'
+tags:
+- Google Cloud
+- NextJS
+- TypeScript
+- ProcessamentoDeImagens
+- ArquiteturaDeSoftware
+- GoogleCloudStorage
+- GCS
+- Scalability
+- Performance
+- Microservices
+categories:
+- Desenvolvimento
+- Google Cloud
+twitter_text: 'Processamento Assíncrono de Imagens em Escala com Google Cloud'
+introduction: 'Nos últimos meses, venho trabalhando em um desafio técnico fascinante: construir um sistema de processamento de imagens que consegue lidar com até 10.000 arquivos por upload de forma eficiente e escalável.'
+comments: 'true'
 ---
 
 # Processamento Assíncrono de Imagens em Escala com Google Cloud
