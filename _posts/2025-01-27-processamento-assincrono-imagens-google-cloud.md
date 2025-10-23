@@ -10,13 +10,6 @@ tags:
 - Google Cloud
 - NextJS
 - TypeScript
-- ProcessamentoDeImagens
-- ArquiteturaDeSoftware
-- GoogleCloudStorage
-- GCS
-- Scalability
-- Performance
-- Microservices
 categories:
 - Desenvolvimento
 - Google Cloud
